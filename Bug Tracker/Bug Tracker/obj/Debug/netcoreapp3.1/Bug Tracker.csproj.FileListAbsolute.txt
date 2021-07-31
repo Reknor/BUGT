@@ -1,0 +1,92 @@
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.StaticWebAssets.xml
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.exe
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.deps.json
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.runtimeconfig.json
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.runtimeconfig.dev.json
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.pdb
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.Views.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.Views.pdb
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csprojAssemblyReference.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.AssemblyInfoInputs.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.AssemblyInfo.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csproj.CoreCompileInputs.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.RazorAssemblyInfo.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.RazorAssemblyInfo.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Bug Tracker.StaticWebAssets.Manifest.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Bug Tracker.StaticWebAssets.xml
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bug Tracker.styles.css
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.TagHelpers.input.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.TagHelpers.output.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.RazorCoreGenerate.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.RazorTargetAssemblyInfo.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.Views.pdb
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csproj.CopyComplete
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.dll
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.pdb
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.genruntimeconfig.cache
