@@ -12,5 +12,15 @@ namespace Bug_Tracker.Models
         public DbSet<Project> Projects { get; set; }
 
         public DbSet<Bug> Bugs { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Add default value for property status in Bug model
+            modelBuilder.Entity<Bug>()
+                .Property(b => b.Status)
+                .HasDefaultValue("reported");
+           
+        }
     }
 }

@@ -37,6 +37,12 @@ namespace Bug_Tracker.Migrations
                     b.Property<int?>("ProjectId")
                         .HasColumnType("int");
 
+                    b.Property<string>("Status")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("nvarchar(50)")
+                        .HasMaxLength(50)
+                        .HasDefaultValue("reported");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ProjectId");
