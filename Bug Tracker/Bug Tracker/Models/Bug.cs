@@ -21,11 +21,23 @@ namespace Bug_Tracker.Models
         /// | finished
         /// </summary>
         [MaxLength(50)]
+        [Required]
         public string Status { get; set; }
+
+        [Required]
+        public int ProjectId { get; set; }
 
         /// <summary>
         /// Project in which bug was reported
         /// </summary>
+        [ForeignKey("ProjectId")]
         public Project Project { get; set; }
+
+        public static string[] StatusTypes =
+        {
+           "reported",
+           "in progress",
+           "finished"
+        };
     }
 }

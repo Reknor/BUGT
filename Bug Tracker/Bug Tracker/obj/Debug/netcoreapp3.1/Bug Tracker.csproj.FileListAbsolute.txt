@@ -167,3 +167,8 @@ C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\n
 C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Details.cshtml.g.cs
 C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Edit.cshtml.g.cs
 C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Bugs\Create.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Bugs\Delete.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Bugs\Details.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Bugs\Edit.cshtml.g.cs
+C:\Users\barci\source\repos\Bug Tracker\BUGT\Bug Tracker\Bug Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Bugs\Index.cshtml.g.cs
