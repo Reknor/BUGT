@@ -45,8 +45,6 @@ namespace Bug_Tracker.Controllers
             {
                 return NotFound();
             }
-            Console.WriteLine(TempData["projectName"]);
-            TempData.Keep("projectName");
             var bug = await _context.Bugs
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (bug == null)
@@ -72,9 +70,11 @@ namespace Bug_Tracker.Controllers
         {
             if (ModelState.IsValid)
             {
+                bug.ProjectId = (int)TempData["projectId"];
+                TempData.Keep("projectId");
                 _context.Add(bug);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index), new { projectId = TempData["projectId"] });
             }
             return View(bug);
         }
@@ -102,6 +102,8 @@ namespace Bug_Tracker.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Status")] Bug bug)
         {
+            bug.ProjectId = (int)TempData["projectId"];
+            TempData.Keep("projectId");
             if (id != bug.Id)
             {
                 return NotFound();
@@ -125,7 +127,7 @@ namespace Bug_Tracker.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index), new { projectId = TempData["projectId"] });
             }
             return View(bug);
         }

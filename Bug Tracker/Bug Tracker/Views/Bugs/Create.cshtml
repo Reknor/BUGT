@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Create";
+    TempData.Keep("projectId");
 }
 
 <h1>Create</h1>
@@ -23,15 +24,16 @@
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Status" class="control-label"></label>
-                <input asp-for="Status" data=@Bug_Tracker.Models.Bug.StatusTypes class="form-control" />
-                <span asp-validation-for="Status" class="text-danger"></span>
+                <select asp-for="Status">
+                    <option value="reported">reported</option>
+                    <option value="in progress">in progress</option>
+                    <option value="fixed">fixed</option>
+                </select>
             </div>
-            <input type="hidden" asp-for="ProjectId" value="@TempData["projectId"]" />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
-            
+
         </form>
     </div>
 </div>

@@ -37,7 +37,7 @@ namespace Bug_Tracker.Models
         {
            "reported",
            "in progress",
-           "finished"
+           "fixed"
         };
     }
 }

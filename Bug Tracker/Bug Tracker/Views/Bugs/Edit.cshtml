@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Edit";
+    TempData.Keep("projectId");
 }
 
 <h1>Edit</h1>
@@ -19,14 +20,21 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Status" class="control-label"></label>
-                <input asp-for="Status" class="form-control" />
-                <span asp-validation-for="Status" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="Description" class="control-label"></label>
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="Status">
+                    <option selected="@Model.Status">@Model.Status</option>
+                    @foreach (var status in Bug_Tracker.Models.Bug.StatusTypes)
+                    {
+                        if (status != Model.Status)
+                        {
+                            <option value="@status">@status</option>
+                        }
+                    }
+                </select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
