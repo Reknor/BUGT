@@ -32,6 +32,10 @@ namespace Bug_Tracker
                     Configuration.GetConnectionString("BugTrackerDBContext")));
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<DataBaseContext>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
